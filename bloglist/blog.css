@@ -1,0 +1,29 @@
+* {
+    font-family: 'Sen', sans-serif;
+  background: -webkit-gradient(linear, left top, left bottom, from(#1b213b), color-stop(35.21%, #2b0934), to(#1b0217));
+  background: linear-gradient(180deg, #1b213b 0%, #2b0934 35.21%, #1b0217 100%);
+  color:#FFFFFF;
+} 
+
+.content {
+    max-width: 1000px;
+    margin: 50px auto; 
+    padding: 5%; 
+    text-align: center;
+  } 
+  .content img {
+    width: 100%;
+  }
+  .content h1{
+    margin-bottom: 10px;
+  } 
+  
+  .content small{
+   
+    font-style: italic;
+  } 
+  
+  .content p {
+   text-align: left;
+    line-height: 1.5;
+  }   
